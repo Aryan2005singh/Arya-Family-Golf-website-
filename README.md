@@ -1,4 +1,4 @@
-# Arya-Family-Golf-website-
+# SidCup-Family-Golf-website-
 **Golf Booking Website**  
 This project is a user-friendly platform for booking golf tee times at various courses. It allows users to browse available time slots, select their preferred course, and make reservations easily. The website provides key features such as:
 
